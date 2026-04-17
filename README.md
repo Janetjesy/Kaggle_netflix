@@ -47,5 +47,5 @@ We are currently transitioning into the **Machine Learning** phase.
 - **Logic:** Building a "Metadata Soup" (Director + Cast + Genres + Description) and using **Cosine Similarity** to calculate the mathematical distance between titles.
 
 ---
-**Author:** [Your Name]
-**Focus:** Information Technology (TUK) | Software Development & Data Science
+**Author:** JANET CHEPKURUI
+
